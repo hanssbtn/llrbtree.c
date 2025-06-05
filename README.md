@@ -1,0 +1,2 @@
+# llrbtree.c
+Implementation of left-leaning red-black tree as described by [Sedgewick](https://sedgewick.io/wp-content/themes/sedgewick/papers/2008LLRB.pdf). Written in C17 and compiled with GCC 15.1.0 on Windows 10 x86-64. 
