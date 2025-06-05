@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		".htaccess": "plaintext",
+		"agents.h": "c",
+		"rbtree.h": "c"
+	}
+}
